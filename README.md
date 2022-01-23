@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @signedXOXO
-- 👀 I’m interested in blockhain
+- 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on DeFi projects
 
